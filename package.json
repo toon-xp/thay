@@ -1,5 +1,5 @@
 {
-  "homepage": "",
+  "homepage": "https://toon-xp.gthub.io/thay.git",
   "name": "pedido-especial-react",
   "version": "1.0.0",
   "description": "Pedido especial em React",
@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "vite build && gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.2.0",
